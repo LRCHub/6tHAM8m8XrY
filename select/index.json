@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "月まで",
+  "base_artist": "Hump Back",
+  "createdAt": "2026-02-22T13:23:38.086001Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月まで",
+      "artist": "Hump Back",
+      "has_synced": false,
+      "path": "select/pl_01_月まで_Hump_Back.txt"
+    }
+  ]
+}
